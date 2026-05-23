@@ -1,0 +1,27 @@
+{
+  "name": "ghox-web",
+  "version": "1.0.0",
+  "description": "GHOX Project - A decentralized ecosystem for creation, evolution and global digital transformation",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static HTML project - no build step required'",
+    "preview": "npx serve .",
+    "lint": "echo 'No linter configured yet'"
+  },
+  "keywords": [
+    "ghox",
+    "decentralized",
+    "solana",
+    "token"
+  ],
+  "author": "",
+  "license": "SEE LICENSE FILE",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.1.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
