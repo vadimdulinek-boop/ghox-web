@@ -1,0 +1,17 @@
+{
+  "name": "ghox-web",
+  "version": "1.0.0",
+  "description": "GHOX Project - A decentralized ecosystem for creation, evolution and global digital transformation",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
